@@ -1,0 +1,110 @@
+@media(max-width:576px)
+{
+    .full-nav
+{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+
+.hello3 {
+    font-size: 20px;
+    color: #8100ff;
+    font-weight: 900;
+  }
+  
+  .hello1 {
+    font-size: 25px;
+    margin-bottom: 30px;
+  }
+
+
+
+  .image2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 30%;
+    border: 17px solid #8100ff;
+  }
+  .my-img {
+    width: 250px;
+    height: auto;
+    border-radius: 50%;
+    clip-path: circle(50.1% at 50% 50%);
+    border: 10px solid #8100ff;
+    background: linear-gradient(rgba(255, 255, 255, 0.2), rgb(89, 0, 172));
+  }
+
+  .envelop-logo
+  {
+    color: rgb(239, 66, 66);
+    font-size: 25px;
+    margin-right: 10px;
+   
+  }
+  .own-mail
+{
+  font-size: 20px;
+  color: rgb(43, 43, 43);
+  text-decoration: none;
+  margin-top: -5px;
+  
+
+
+}
+.other-link1
+{
+  font-size: 20px;
+  margin-right: 5px;
+  color: white;
+  padding: 7px;
+
+}
+.got-project
+{
+  font-size: 20px;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.other-link1:hover
+{
+  font-size: 20px;
+  margin-right: 5px;
+  color:#7409d1;
+  background-color: white;
+  border-radius: 50%;
+  padding: 7px;
+ 
+}
+
+.interest-icon1
+{
+  color: #066f74; 
+  font-size: 20px;
+}
+.interest-icon2
+{
+  color: #e19f05; 
+  font-size: 20px;
+}
+.interest-icon3
+{
+  color: #ef2f92; 
+  font-size: 20px;
+}
+.interest-icon4
+{
+  color: #51ed70; 
+  font-size: 20px;
+}
+
+.interest-names
+{
+  font-size: 15px;
+  text-decoration: none;
+  color: rgb(53, 53, 53);
+  font-weight: 600;
+}
+
+}
