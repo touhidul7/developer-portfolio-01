@@ -252,14 +252,6 @@
 /* about end here------------- */
 /* awsome journey start here-------------- */
 /* education----------------- */
-.education {
-  /*  display: none; */
-}
-
-.experience {
-  /* display: none; */
-}
-
 .edu-heading {
   display: flex;
   gap: 10px;
@@ -343,10 +335,6 @@
 
 /* awsome journey end here-------------- */
 /* my services start here------------------ */
-.all-services {
-  /*  display: none; */
-}
-
 .service-logoandname {
   display: flex;
   gap: 20px;
@@ -437,18 +425,6 @@
 
 /* my services end here------------------ */
 /* recent works start here------------------- */
-.work1 {
-  /* display: none; */
-}
-
-.work2 {
-  /* display: none; */
-}
-
-.work3 {
-  /* display: none; */
-}
-
 .work-img-1 {
   width: 100%;
   height: auto;
