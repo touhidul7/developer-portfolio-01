@@ -6,11 +6,23 @@
   background-color: rgb(0, 0, 0);
 }
 
+main {
+  margin-top: 50px;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
 /* navigation start here------------------ */
 .full-nav {
   padding-left: 110px !important;
   padding-right: 110px !important;
   background-color: rgb(0, 0, 0);
+  position: fixed !important;
+  z-index: 999;
+  width: 100%;
+  top: 0;
 }
 
 .navbar-brand {
